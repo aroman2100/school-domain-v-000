@@ -12,7 +12,7 @@ require 'pry'
 
     @roster[grade] = []
 
-    #@roster[grade] << name
+    @roster[grade] << name
 
   end
 
